@@ -1,4 +1,4 @@
-contact=adops@zmg.video
+contact=adops@zmg.video1
 contact=https://ruckusfactory.com/#section-contact
 ManagerDomain=TVIQ.io
 inventorypartnerdomain=answermedia.com
