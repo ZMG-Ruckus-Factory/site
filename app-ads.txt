@@ -1,5 +1,5 @@
 contact=adops@zmg.video
-contact=http://www.ruckusfactory.com/our-story-1
+contact=http://www.ruckusfactory.com/#section-contact
 ManagerDomain=TVIQ.io
 inventorypartnerdomain=answermedia.com
 inventorypartnerdomain=amagi.com
@@ -149,36 +149,58 @@ tremorhub.com, 73aj2-n2t75, RESELLER, 1a4e959a1b50034a
 # Ads Plus Ads END
 
 # Orka Ads START
-orka.tv, 57644066, DIRECT
+orka.tv, 57644066, DIRECT, 41c84499561af3f3
 admanmedia.com, 1025, DIRECT
 appnexus.com, 13307, DIRECT, f5ab79cb980f11d1
 appnexus.com, 13437, DIRECT, f5ab79cb980f11d1
+appnexus.com, 13437, RESELLER, f5ab79cb980f11d1
 beachfront.com, 14821, DIRECT, e2541279e8e2ca4d
+connatix.com, 1676721125209786, RESELLER, 2af98acdee0e81ed
 consumable.com, 2001372, DIRECT
+conversantmedia.com, 100642, RESELLER, 03113cd04947736d
 conversantmedia.com, 100087, DIRECT
 durationmedia.net, 22487092286, DIRECT
 elementaltv.io, 78888114, DIRECT
+emxdgt.com, 2547, RESELLER, 1e1d41537f7cad7f
 emxdgt.com, 2112, DIRECT, 1e1d41537f7cad7f
+filmzie.com, 9894060, RESELLER
 freewheel.tv, 1306975, DIRECT
 freewheel.tv, 1522338, DIRECT
+freewheel.tv, 1598940, RESELLER, 74e8e47458f74754
+freewheel.tv, 1598941, RESELLER, 74e8e47458f74754
+freewheel.tv, 533471-r-523319, RESELLER
+freewheel.tv, sg1256505, RESELLER
 google.com, pub-6694481294649483, DIRECT, f08c47fec0942fa0
+grouprvn.com, 520202911, RESELLER
 indexexchange.com, 197202, DIRECT, 50b1c356f2c5c8fc
+inmobi.com, 251e46d6fba54576a2110180c552a59f, RESELLER, 83e75a7ae333ca9d
 krushmedia.com, AJxF6R477a9M6CaTvK, DIRECT
+lgads.tv, 475902, RESELLER
 lijit.com, 248396-eb, DIRECT, fafdf38b16bf6b2b
+lijit.com, 504676, RESELLER, fafdf38b16bf6b2b
+lkqd.net, 1100055764, RESELLER, 59c49fa9598a0117
 nobid.io, 22487092286, DIRECT
 onetag.com, 6c68086c0c61793, DIRECT
+openx.com, 559612253, RESELLER, 6a698e2ec38604c6
 originmedia.tv, 10091922, DIRECT, 117241431
 pubmatic.com, 156695, DIRECT, 5d62403b186f2ace
 pubmatic.com, 159117, DIRECT, 5d62403b186f2ace
 pubmatic.com, 161428, DIRECT, 5d62403b186f2ace
 pubmatic.com, 161508, DIRECT, 5d62403b186f2ace
 pubmatic.com, 161854, DIRECT, 5d62403b186f2ace
+pubmatic.com, 161428, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161854, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163735, RESELLER, 5d62403b186f2ace
 rhythmone.com, 2600543444894572145, DIRECT, a670c89d4a324e47
 rhythmone.com, 2736329702851206590, DIRECT, a670c89d4a324e47
+sharethrough.com, lmY9aAKH, RESELLER, d53b998a7bd4ecd2
 showheroes.com, 381, DIRECT
+siprocalads.com, SEQ7S9CH7H0SPD3U4M8JPGECAO, RESELLER
 smartadserver.com, 4071, DIRECT
 smartadserver.com, 4310, DIRECT
+smartadserver.com, 4310, RESELLER
 sonobi.com, 6e5cfb5420, DIRECT
+sonobi.com, f70fbb4d0a, RESELLER, d1a215d9eb5aee9e
 spotx.tv, 265438, DIRECT, 7842df1d2fe2db34
 spotx.tv, 270977, DIRECT, 7842df1d2fe2db34
 spotx.tv, 284496, DIRECT, 7842df1d2fe2db34
@@ -189,21 +211,27 @@ spotxchange.com, 284496,DIRECT, 7842df1d2fe2db34
 spotxchange.com, 311689, DIRECT, 7842df1d2fe2db34
 springserve.com, 1206, DIRECT, a24eb641fc82e93d
 springserve.com, 1247, DIRECT, a24eb641fc82e93d
+streamvisionmedia.com, 47524, RESELLER
 telaria.com, auap-zihku, DIRECT, 1a4e959a1b50034a
 telaria.com, vtrdn-wjdav, DIRECT, 1a4e959a1b50034a
 telaria.com, vtrdn-ysjam, DIRECT, 1a4e959a1b50034a
 tremorhub.com, auap-zihku, DIRECT, 1a4e959a1b50034a
 tremorhub.com, vtrdn-ysjam, DIRECT, 1a4e959a1b50034a
 triplelift.com, 11342, DIRECT, 6c33edb13117fd86
+tmhtechco.com, 1021, RESELLER, 21be5efa891dcce8
+tvp.tv, AT70, RESELLER, 1125b6434104a723
 tvp.tv, AE98, DIRECT, 1125b6434104a723
 uis.mobfox.com, SM_828, DIRECT, 5529a3d1f59865be
 video.unrulymedia.com, 2600543444894572145, DIRECT
 video.unrulymedia.com, 2736329702851206590, DIRECT
+video.unrulymedia.com, 2600543444894572145, RESELLER, a670c89d4a324e47
 xandr.com, 13437, DIRECT, f5ab79cb980f11d1
 xandr.com, 11744, DIRECT, f5ab79cb980f11d1
 yahoo.com, 55104, DIRECT, e1a5b5b6e3255540
 yahoo.com, 57695, DIRECT, e1a5b5b6e3255540
 yahoo.com, 59642, DIRECT, e1a5b5b6e3255540
+yahoo.com, 60169, RESELLER, e1a5b5b6e3255540
+zetaglobal.net, 785, RESELLER
 # Orka Ads END
 
 # Equativ Ads START
@@ -274,6 +302,10 @@ freewheel.tv, 1119233, RESELLER
 pubmatic.com, 162263, RESELLER, 5d62403b186f2ace
 indexexchange.com, 205322, RESELLER, 50b1c356f2c5c8fc
 video.unrulymedia.com, 1770453816, RESELLER 
+freewheel.tv, sg1251726, RESELLER
+freewheel.tv, 535082-r-523319, RESELLER
+video.unrulymedia.com, 686913342, RESELLER
+springserve.com, 1043, RESELLER, a24eb641fc82e93d
 # Vizio Ads END
 
 # Glewed Ads START
