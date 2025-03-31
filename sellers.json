@@ -1,0 +1,64 @@
+{
+	"contact_email": "adops@zmg.video", "steve.charlier@zmg.video",
+	"contact_address": "Zazoom LLC, 49 Flatbush Avenue, PMB 1109 Brooklyn NY 11217",
+	"version": "1.0",
+	"identifiers": [
+
+	],
+	"sellers": [
+		{
+			"seller_id": "69184",
+			"name": "Telly",
+			"domain": "https://www.telly.com/",
+			"seller_type": "Publisher"
+		}
+		{
+			"seller_id": "69207",
+			"name": "TVIQ",
+			"domain": "https://tviq.io/",
+			"seller_type": "Intermediary"
+		},
+		{
+			"seller_id": "28145",
+			"name": "Microsoft - MSN",
+			"domain": "https://www.msn.com/",
+			"seller_type": "Publisher"
+		},
+		{
+			"seller_id": "56566",
+			"name": "ZMG / Accelerated Media - SSAI",
+			"domain": "https://www.ruckusfactory.com/",
+			"seller_type": "Publisher"
+		},
+		{
+			"seller_id": "32791",
+			"name": "ZMG / Accelerated Media - VOD",
+			"domain": "https://www.ruckusfactory.com/",
+			"seller_type": "Publisher"
+		},
+		{
+			"seller_id": "69220",
+			"name": "Amagi O&O FAST Channels",
+			"domain": "https://www.amagi.com/",
+			"seller_type": "Publisher"
+		},
+		{
+			"seller_id": "68800",
+			"name": "Klowd TV",
+			"domain": "https://www.klowdtv.com/",
+			"seller_type": "Publisher"
+		},
+		{
+			"seller_id": "737032",
+			"name": "LG Asia",
+			"domain": "https://www.lg.com/us/",
+			"seller_type": "Publisher"
+		},
+		{
+			"seller_id": "70429",
+			"name": "Breaking AC",
+			"domain": "https://breakingac.com/",
+			"seller_type": "Publisher"
+		}
+	]
+}
