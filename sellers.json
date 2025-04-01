@@ -13,55 +13,55 @@
 			"seller_id": "69184",
 			"name": "Telly",
 			"domain": "https://www.telly.com/",
-			"seller_type": "Publisher"
+			"seller_type": "BOTH"
 		}
 		{
 			"seller_id": "69207",
 			"name": "TVIQ",
 			"domain": "https://tviq.io/",
-			"seller_type": "Intermediary"
+			"seller_type": "INTERMEDIARY"
 		},
 		{
 			"seller_id": "28145",
 			"name": "Microsoft - MSN",
 			"domain": "https://www.msn.com/",
-			"seller_type": "Publisher"
+			"seller_type": "BOTH"
 		},
 		{
 			"seller_id": "56566",
 			"name": "ZMG / Accelerated Media - SSAI",
 			"domain": "https://ruckusfactory.com/",
-			"seller_type": "Publisher"
+			"seller_type": "PUBLISHER"
 		},
 		{
 			"seller_id": "32791",
 			"name": "ZMG / Accelerated Media - VOD",
 			"domain": "https://ruckusfactory.com/",
-			"seller_type": "Publisher"
+			"seller_type": "PUBLISHER"
 		},
 		{
 			"seller_id": "69220",
 			"name": "Amagi O&O FAST Channels",
 			"domain": "https://www.amagi.com/",
-			"seller_type": "Publisher"
+			"seller_type": "PUBLISHER"
 		},
 		{
 			"seller_id": "72393",
 			"name": "Moonball TV",
 			"domain": "https://moonball.tv/",
-			"seller_type": "Publisher"
+			"seller_type": "BOTH"
 		},
 		{
 			"seller_id": "73018",
 			"name": "UDU Digital",
 			"domain": "https://www.ududigital.com/",
-			"seller_type": "Publisher"
+			"seller_type": "BOTH"
 		},
 		{
 			"seller_id": "72434",
 			"name": "GNN TV",
 			"domain": "https://thegolfnewsnet.com/",
-			"seller_type": "Publisher"
+			"seller_type": "BOTH"
 		}
 	]
 }
