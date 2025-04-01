@@ -27,13 +27,13 @@
 		{
 			"seller_id": "56566",
 			"name": "ZMG / Accelerated Media - SSAI",
-			"domain": "https://www.ruckusfactory.com/",
+			"domain": "https://ruckusfactory.com/",
 			"seller_type": "Publisher"
 		},
 		{
 			"seller_id": "32791",
 			"name": "ZMG / Accelerated Media - VOD",
-			"domain": "https://www.ruckusfactory.com/",
+			"domain": "https://ruckusfactory.com/",
 			"seller_type": "Publisher"
 		},
 		{
@@ -43,21 +43,21 @@
 			"seller_type": "Publisher"
 		},
 		{
-			"seller_id": "68800",
-			"name": "Klowd TV",
-			"domain": "https://www.klowdtv.com/",
+			"seller_id": "72393",
+			"name": "Moonball TV",
+			"domain": "https://moonball.tv/",
 			"seller_type": "Publisher"
 		},
 		{
-			"seller_id": "737032",
-			"name": "LG Asia",
-			"domain": "https://www.lg.com/us/",
+			"seller_id": "73018",
+			"name": "UDU Digital",
+			"domain": "https://www.ududigital.com/",
 			"seller_type": "Publisher"
 		},
 		{
-			"seller_id": "70429",
-			"name": "Breaking AC",
-			"domain": "https://breakingac.com/",
+			"seller_id": "72434",
+			"name": "GNN TV",
+			"domain": "https://thegolfnewsnet.com/",
 			"seller_type": "Publisher"
 		}
 	]
