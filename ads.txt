@@ -1,5 +1,5 @@
 contact=adops@zmg.video
-contact=https://ruckusfactory.com/#section-contact
+contact=https://ruckusfactory.com/#contact
 ManagerDomain=TVIQ.io
 inventorypartnerdomain=answermedia.com
 inventorypartnerdomain=amagi.com
@@ -563,15 +563,31 @@ indexexchange.com, 198549, DIRECT
 
 # Tricoast Ads START
 darkmattertv.com, 665, DIRECT
-darkmattertv.com, 665, RESELLER
-pubmatic.com,164638,RESELLER
-openx.com, 559612253, RESELLER, 6a698e2ec38604c6
-freewheel.tv, 512116, RESELLER
-freewheel.tv, 512116-523319, RESELLER
-freewheel.tv, 515189, RESELLER
 sabio.us, 100117, RESELLER, 96ed93aaa9795702
-freewheel.tv, 1606620, RESELLER
-indexexchange.com, 205322, RESELLER, 50b1c356f2c5c8fc
+Prismriotads.com, 67796, RESELLER, 21e44d1aeccd12ef
+TVIQ.io, 326, RESELLER
+indicue.com, 1654, RESELLER
+inventorypartnerdomain=wurl.com
+smartadserver.com, 4054, RESELLER, 060d053dcf45cbf3
+sonobi.com, 2400eeabdf, RESELLER, d1a215d9eb5aee9e
+sonobi.com, 202ede5988, RESELLER, d1a215d9eb5aee9e
+vizio.com, 345067, RESELLER
+sonobi.com, 587928c621, RESELLER, d1a215d9eb5aee9e
+sabio.us, 100127, RESELLER, 96ed93aaa9795702
+lkqd.net, 1100053847, RESELLER, 59c49fa9598a0117
+inventorypartnerdomain=space-mob.com
+lijit.com, 518134, RESELLER, fafdf38b16bf6b2b
+siprocalads.com, O17A8HHKR54DL3L48OQDII6Q6G, RESELLER
+siprocalads.com, 4P9ADTEV3D2414L6UNFHNL20OG, RESELLER
+adtelligent.com, 446863, RESELLER, 8ce87912eb022a51
+filmzie.com, 9894029, RESELLER
+safex.tv, 5043, RESELLER
+castify.ai, 1270186, RESELLER
+inventorypartnerdomain=castify.ai
+audienceconnect.io, 551, RESELLER
+freewheel.tv, 1596466, RESELLER
+boldcollective.co, 498070, RESELLER
+inventorypartnerdomain=boldcollective.co
 # Tricoast Ads END
 
 # Unknown Ads START
@@ -1657,23 +1673,26 @@ loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
 appnexus.com, 12878, RESELLER, f5ab79cb980f11d1
 freewheel.tv, 1601388, RESELLER
 
-#Verve - TVIQ
+#Verve - TVIQ START
 lkqd.net, 1100057954, RESELLER, 59c49fa9598a0117
+#Verve - TVIQ START
 
-#Appnerve - TVIQ
+#Appnerve - TVIQ START
 Media.net, 8CU1J449J, DIRECT
 pubmatic.com, 162134, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 3611299104, RESELLER
 Contextweb.com,563183, RESELLER,89ff185a4c4e857c
+#Appnerve - TVIQ END
 
-#TheMediaSense - TVIQ
+#TheMediaSense - TVIQ START
 supply.colossusssp.com, 865, DIRECT
 xandr.com, 10490, RESELLER
 yieldmo.com, 3078438591206989879, RESELLER, #ortb
 vuukle.com, b6f74a8f-5a2e-466c-a126-ffa1c044c11c, DIRECT, c8034d3da4547abf
 google.com, pub-3494520468788589, RESELLER, f08c47fec0942fa0
+#TheMediaSense - TVIQ END
 
-#Mosher - TVIQ
+#Mosher - TVIQ START
 Novicue.com,1108701,direct
 improvedigital.com, 2553, RESELLER
 adyoulike.com, 6038d2aa7e7f342ff0006deaf2a25c52, DIRECT
@@ -1706,3 +1725,56 @@ Supply.colossusssp.com, 860, DIRECT
 xandr.com, 10490, RESELLER
 yieldmo.com, 3078438591206989879, RESELLER, #ortb
 yieldmo.com, 3081538394287710485, RESELLER, #ortbctv
+#Mosher - TVIQ END
+
+#Freecast START
+freecast.com, 2195, DIRECT
+freecast.com, 2195, RESELLER
+inventorypartnerdomain=freecast.com
+33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
+appnexus.com, 10736, RESELLER
+appnexus.com, 14246, RESELLER
+appnexus.com, 9733, RESELLER
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
+Contextweb.com, 563281, RESELLER, 89ff185a4c4e857c
+filmzie.com, 9894060, RESELLER
+freewheel.tv, 1135233, RESELLER
+freewheel.tv, 1157953, RESELLER
+freewheel.tv, 1444578, RESELLER
+freewheel.tv, 1585434, RESELLER
+freewheel.tv, 1601860, RESELLER
+freewheel.tv, 512116, RESELLER
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+lijit.com, 245697, RESELLER, fafdf38b16bf6b2b
+lijit.com, 511365, RESELLER, fafdf38b16bf6b2b
+media.net, 8CUSP0K53, RESELLER
+openx.com, 540226160, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161633, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162263, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163277, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164391, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 10278, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
+sharethrough.com, 6qlnf8SY, RESELLER, d53b998a7bd4ecd2 (x)
+smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
+smartadserver.com, 4417-OB, RESELLER, 060d053dcf45cbf3
+sonobi.com, 4eb7d51a82, RESELLER, d1a215d9eb5aee9e
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 160227, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 285547, RESELLER, 7842df1d2fe2db34
+telaria.com, 2auap-zihku, RESELLER, 1a4e959a1b50034a
+telaria.com, kjkl2-tfki7, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 2auap-45web, RESELLER, 1a4e959a1b50034a
+tremorhub.com, kjkl2-po6i4, RESELLER, 1a4e959a1b50034a
+triplelift.com, 12913, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 163906289, RESELLER
+video.unrulymedia.com, 2444764291, RESELLER
+video.unrulymedia.com, 3128065130, RESELLER
+video.unrulymedia.com, 4395089476839622266, RESELLER
+video.unrulymedia.com, 9085206363819624071, RESELLER
+yahoo.com, 57289, RESELLER, e1a5b5b6e3255540
+yahoo.com, 59817, RESELLER, e1a5b5b6e3255540
+#Freecast END
