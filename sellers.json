@@ -1,9 +1,12 @@
 {
-	"contact_email": "adops@zmg.video", "steve.charlier@zmg.video",
+	"contact_email": "adops@zmg.video",
 	"contact_address": "Zazoom LLC, 49 Flatbush Avenue, PMB 1109 Brooklyn NY 11217",
 	"version": "1.0",
 	"identifiers": [
-
+		{
+      			"name": "Account ID",
+      			"value": "78"
+    		}
 	],
 	"sellers": [
 		{
