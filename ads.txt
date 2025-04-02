@@ -1,5 +1,5 @@
-contact=adops@zmg.video
-contact=https://ruckusfactory.com/#contact
+contact=adops@zmg.video, steve.charlier@zmg.video
+contact=https://ruckusfactory.com
 ManagerDomain=TVIQ.io
 inventorypartnerdomain=answermedia.com
 inventorypartnerdomain=amagi.com
